@@ -1,6 +1,6 @@
 import os
 from random import randint
-from requests import *
+from requests impojrt *
 import vk
 
 # Указываем ключи доступа, id группы и версию API
